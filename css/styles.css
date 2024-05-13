@@ -1,0 +1,156 @@
+* {
+    color: black;
+}
+
+#section1 {
+    margin-top: 2rem;
+    width: 100%;
+    height: 80%;
+    border: 3px solid white;
+}
+
+#section1 #text1 {
+    padding: 2rem;
+    height: 96%;
+    margin-top: 0.7rem;
+    margin-left: 0.7rem;
+    margin-right: 0.7rem;
+    border: 3px solid white;
+}
+
+#section1 #text1 #info {
+    margin-top: 1rem;
+    margin-right: 20rem;
+}
+
+#section1 #text1 small {
+    color: white;
+}
+
+#section1 #text1 b {
+    color: rgb(69, 203, 230);
+}
+
+#section1 #text1 #info ul {
+    list-style: none;
+}
+
+#section1 #text1 #info li {
+    color: white;
+}
+
+#section1 #byEraboration {
+    padding: 0.5rem;
+    color: black;
+    background-color: #ffe4c4;
+    border-radius: 10px;
+}
+
+#section2 {
+    width: 60%;
+    background-color: white;
+}
+
+#section2 #fondo {
+    padding: 3rem;
+}
+
+#section2 #fondo h1,
+span,
+small {
+    color: #656580;
+}
+
+#section2 #fondo span,
+small {
+    text-align: justify;
+}
+
+#section3 .card {
+    max-width: 60%;
+    max-height: 100%;
+    border-radius: 10px;
+    background-color: rgba(202, 202, 202, 0.902);
+}
+
+#section3 h2,
+small {
+    color: #656580;
+}
+
+#section3 small {
+    text-align: justify;
+}
+
+#section4 h2 {
+    color: white;
+}
+
+#section4 #contenedor {
+    background-color: white;
+    border-radius: 10px;
+    padding: 1rem;
+    height: 100%;
+}
+
+#section4 #contenedor li {
+    font-size: 25px;
+}
+
+#section5 #contenedor {
+    background-color: #817E59;
+    border-radius: 10px;
+    padding: 1rem;
+    height: 100%;
+}
+
+#section5 #contenedor small {
+    color: black;
+}
+
+#section5 #contenedor2 small {
+    color: black;
+}
+
+#section5 #contenedor2 {
+    background-color: #A2A2B5;
+    border-radius: 10px;
+    padding: 1rem;
+    height: 100%;
+}
+
+#section6 #tools_options {
+    background-color: white;
+    border-radius: 10px;
+    padding: 2rem;
+}
+
+#section7 #tools_hadoop {
+    background-color: white;
+    border-radius: 10px;
+    padding: 2rem;
+}
+
+#section7 #fondo1 {
+    background-color: rgba(255, 255, 255, 0.903);
+    padding: 3rem;
+    border-radius: 10px;
+    text-align: justify;
+}
+
+#section7 #fondo1 img {
+    border-radius: 10px;
+}
+
+#section9 #fondo {
+    height: 100%;
+    width: 60%;
+    background-color: #404040;
+    padding: 1rem;
+}
+
+#section9 #fondo #inter {
+    border: 1px solid white;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
